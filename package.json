@@ -1,0 +1,10 @@
+{
+  "name": "nodfur-it8951",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "it8951": "^0.1.1"
+  }
+}
